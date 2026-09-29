@@ -378,7 +378,7 @@
 
             <!-- GANTI FOTO DI SINI -->
             <img
-                src="content://com.android.providers.media.documents/document/image%3A21010"
+                src="IMG_20260929_155254.jpg"
                 alt="Foto Andika Ramadani"
                 class="foto-profil"
             >
