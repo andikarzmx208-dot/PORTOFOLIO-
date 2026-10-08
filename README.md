@@ -1,5 +1,6 @@
-
-</head><meta name="google-site-verification" content="m2yxpAGDiBCKi4Xjd577S_BMBUM3eJ-nlApK9VdHQd0" />
+<!DOCTYPE html>
+<html lang="id">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -377,7 +378,7 @@
 
             <!-- GANTI FOTO DI SINI -->
             <img
-                src="IMG_20260929_155254.jpg"
+                src="content://com.android.providers.media.documents/document/image%3A21010"
                 alt="Foto Andika Ramadani"
                 class="foto-profil"
             >
